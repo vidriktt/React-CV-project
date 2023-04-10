@@ -1,9 +1,9 @@
 # My first React project - CV application
 
-## Task from The Odin Project - Javascript Course
-<br /><br />
+### Task from The Odin Project - Javascript Course
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Link to page](https://vidriktt.github.io/React-CV-project/)
+<br /><br />
 
 ## Available Scripts
 
@@ -30,3 +30,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run deploy`
 
 Deploys the built React app into Github Pages
+
+<br /><br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
